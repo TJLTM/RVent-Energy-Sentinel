@@ -1,6 +1,6 @@
 # RVent-Energy-Sentinel
 
-Need a custom thing to monitor the low voltage stuff in an RV. This is make sure I don't Rip & Tear through stored energy 
+Need a custom thing to monitor the low voltage stuff in an RV. This is to make sure I don't Rip & Tear through stored energy 
 
 Current requirements 
 1. Monitor the voltage on 3-4 Banks of batteries 
